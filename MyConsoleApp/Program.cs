@@ -8,3 +8,4 @@ Console.WriteLine("Modificare3 branch-ul feature-mesaj.");
 Console.WriteLine("Modificare4 branch-ul main.");
 Console.WriteLine("Modificare LOCALA");
 Console.WriteLine("CONFLICT_TEST");
+Console.WriteLine("REMOTE_CONFLICT_TEST");
