@@ -6,4 +6,5 @@ Console.WriteLine("Acesta este branch-ul feature-mesaj.");
 Console.WriteLine("Modificare2 branch-ul feature-mesaj.");
 Console.WriteLine("Modificare3 branch-ul feature-mesaj.");
 Console.WriteLine("Modificare4 branch-ul main.");
+Console.WriteLine("Modificare echipa 1");
 
